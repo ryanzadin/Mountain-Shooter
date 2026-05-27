@@ -4,112 +4,133 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fc176454-fadb-4c7e-a122-d84f598acb94" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/MountainShooter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="fc176454-fadb-4c7e-a122-d84f598acb94" name="Changes" comment="First commit">
+      <change afterPath="$PROJECT_DIR$/code/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;ryanzadin&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/ryanzadin/Mountain-Shooter.git&quot;,
+    &quot;accountId&quot;: &quot;bde94632-ae26-4266-8cb4-e86d77d4302d&quot;
+  }
+}</component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
       <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000261124674943" />
-      <entry key="S2" value="1.1102056667617233" />
-      <entry key="S5" value="1.7660343454130802" />
-      <entry key="S10" value="2.8946797218925457" />
-      <entry key="S30" value="6.116893105705585" />
-      <entry key="S60" value="9.487339605569366" />
-      <entry key="M2" value="16.246077445763177" />
-      <entry key="M5" value="29.46016830791194" />
-      <entry key="M10" value="38.1434222870029" />
-      <entry key="M15" value="41.86911201491897" />
-      <entry key="M30" value="46.1251037218165" />
-      <entry key="H1" value="48.47901645364647" />
-      <entry key="H2" value="49.71779093826174" />
-      <entry key="H4" value="50.35335779820255" />
-      <entry key="D1" value="50.891447780834895" />
-      <entry key="W1" value="50.98447335041903" />
+      <entry key="MS500" value="1.0000000001210663" />
+      <entry key="S2" value="1.0070538165326088" />
+      <entry key="S5" value="1.3165763773799881" />
+      <entry key="S10" value="2.386710291863504" />
+      <entry key="S30" value="5.718879226094911" />
+      <entry key="S60" value="7.967748344652084" />
+      <entry key="M2" value="10.863532296365753" />
+      <entry key="M5" value="21.017708827872987" />
+      <entry key="M10" value="34.58416609488257" />
+      <entry key="M15" value="42.6390379108294" />
+      <entry key="M30" value="53.69975280303482" />
+      <entry key="H1" value="60.72431370176878" />
+      <entry key="H2" value="64.6918408639603" />
+      <entry key="H4" value="66.80145954423095" />
+      <entry key="D1" value="68.62723468219393" />
+      <entry key="W1" value="68.94659027558407" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="1.0351234368860203E-114" />
-      <entry key="MS500" value="1.5958733720487615E-23" />
-      <entry key="S2" value="1.998709179639946E-6" />
-      <entry key="S5" value="0.005251699195908718" />
-      <entry key="S10" value="0.07246861282329108" />
-      <entry key="S30" value="0.4185655373610816" />
-      <entry key="S60" value="0.6867929700777841" />
-      <entry key="M2" value="1.027545810194796" />
-      <entry key="M5" value="1.662365780789695" />
-      <entry key="M10" value="2.151319295937428" />
-      <entry key="M15" value="2.38194246657213" />
-      <entry key="M30" value="2.6607692308236235" />
-      <entry key="H1" value="2.8219514270791954" />
-      <entry key="H2" value="2.9087450724081942" />
-      <entry key="H4" value="2.953798760829731" />
-      <entry key="D1" value="2.9922186945591918" />
-      <entry key="W1" value="2.9988863802060806" />
+      <entry key="MS100" value="7.526400027396677E-84" />
+      <entry key="MS500" value="2.3731083992038458E-17" />
+      <entry key="S2" value="7.138585818415313E-5" />
+      <entry key="S5" value="0.026546149865746077" />
+      <entry key="S10" value="0.21671914479014384" />
+      <entry key="S30" value="0.9389586214452386" />
+      <entry key="S60" value="1.3683437162246477" />
+      <entry key="M2" value="1.685387751430598" />
+      <entry key="M5" value="2.2697270236786475" />
+      <entry key="M10" value="3.002165805508144" />
+      <entry key="M15" value="3.451584941696497" />
+      <entry key="M30" value="4.087488290166663" />
+      <entry key="H1" value="4.5019378922000355" />
+      <entry key="H2" value="4.739437522317581" />
+      <entry key="H4" value="4.866688012856885" />
+      <entry key="D1" value="4.97734719213477" />
+      <entry key="W1" value="4.996753075711838" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.8888426811665702" />
-      <entry key="MS500" value="0.9767342339020763" />
-      <entry key="S2" value="1.1038543620904775" />
-      <entry key="S5" value="1.7662416229417992" />
-      <entry key="S10" value="2.9530210290046646" />
-      <entry key="S30" value="6.504679955175185" />
-      <entry key="S60" value="10.137994018049296" />
-      <entry key="M2" value="17.224818783647887" />
-      <entry key="M5" value="31.07488390939963" />
-      <entry key="M10" value="40.26091266034954" />
-      <entry key="M15" value="44.225540236736066" />
-      <entry key="M30" value="48.771390425678646" />
-      <entry key="H1" value="51.293242070836016" />
-      <entry key="H2" value="52.62254458203548" />
-      <entry key="H4" value="53.30512773965943" />
-      <entry key="D1" value="53.88332365574464" />
-      <entry key="W1" value="53.983310640573976" />
+      <entry key="MS100" value="0.8293195458144417" />
+      <entry key="MS500" value="0.9632618941216536" />
+      <entry key="S2" value="0.9968462346168157" />
+      <entry key="S5" value="1.3130888913293015" />
+      <entry key="S10" value="2.5192715501699996" />
+      <entry key="S30" value="6.51940276248882" />
+      <entry key="S60" value="9.224606260185162" />
+      <entry key="M2" value="12.47354393895226" />
+      <entry key="M5" value="23.238774097457455" />
+      <entry key="M10" value="37.54933728698338" />
+      <entry key="M15" value="46.06073023534407" />
+      <entry key="M30" value="57.76860503497089" />
+      <entry key="H1" value="65.21573728730132" />
+      <entry key="H2" value="69.42567972947606" />
+      <entry key="H4" value="71.66525693564891" />
+      <entry key="D1" value="73.60408689094298" />
+      <entry key="W1" value="73.94327230861775" />
     </decayedShown>
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 3,
-  "fromUser": false
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
   <component name="ProjectId" id="3EGTzl3f2xwle6NZjoOQ0Ny4Tcz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "master",
-    "junie.onboarding.icon.badge.shown": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ryand\Desktop\Projeto de jogo\MountainShooter\code" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -124,11 +145,28 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1779804170809</updated>
-      <workItem from="1779804171827" duration="1557000" />
+      <workItem from="1779804171827" duration="2274000" />
+      <workItem from="1779891291911" duration="1356000" />
     </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <option name="closed" value="true" />
+      <created>1779805821538</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1779805821538</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MountainShooter$main.coverage" NAME="main Coverage Results" MODIFIED="1779805490232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
